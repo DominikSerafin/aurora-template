@@ -2,37 +2,6 @@
     .header
 \*------------------------------------*/
 
-//header background for PACE plugin
-.header-background {
-	position: fixed;
-	z-index: 1000;
-	top: 0;
-	left: 0;
-	width: 100%;
-	//background-color: #3c3c3c;
-	height: 70px;
-
-	//fix
-	backface-visibility: hidden;
-}
-
-//PACE plugin
-.pace .pace-progress {
-	//background: #252525;
-	position: fixed;
-	z-index: 2000;
-	top: 0;
-	left: 0;
-	height: 70px;
-	transition: width 300ms ease-in-out;
-
-	//fix
-	backface-visibility: hidden;
-}
-
-.pace-inactive {
-	//background: #252525;
-}
 
 
 .header {
