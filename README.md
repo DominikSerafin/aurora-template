@@ -23,32 +23,36 @@ It would also be cool if you could share this.
 
 
 
-# Usage
+# FAQ
 
-## How can I change the e-mail address where contact form should send messages?
+### How can I change the e-mail address where contact form should send messages?
 
 Just edit line 55 in /php/contact_form.php
 
 ```
     $to_email = "mail@example.com";
-
 ```
 
-## Contact form doesn't work :(
+### Contact form doesn't work :(
 
 Make sure your server is able to execute PHP scripts and you've set a valid e-mail address.
 
 
-## How to edit stylesheets?
+### How to edit stylesheets?
 
 Although it isn't recommend you can directly edit /style/css/global.css or overwrite it with your styles.
 
 If you know Sass and Gulp you shouldn't have a problem with editing provided stylesheets.
 
 
-## How to edit favicon?
+### How to edit favicon?
 
 Just use [Real Favicon Generator](http://realfavicongenerator.net/) and overwrite current favicon.
+
+
+### Why do you have commit titled "inital files ass"?
+
+It was meant to be "initial files add", but unfortunate typo is a unfortunate typo...
 
 
 # Support
