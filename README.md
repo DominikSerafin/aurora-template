@@ -1,4 +1,4 @@
-Aurora Template
+Aurora Template - [Demo](http://dominikserafin.github.io/aurora-template)
 ===============
 
 ### A free HTML5 template for personal and commercial usage.
@@ -65,10 +65,16 @@ Just use [Real Favicon Generator](http://realfavicongenerator.net/) and overwrit
 
 #### Why do you have a commit titled "initial files ass"?
 
-It was meant to be "initial files add", but unfortunate typo is a unfortunate typo...
+It was meant to be "initial files add", but unfortunate typo is an unfortunate typo...
 
 
 # Support
 
-I'm busy most of the time so I can't provide support. The code isn't that complicated, you probably shouldn't have any problems with it.
+I'm busy most of the time so I can't provide personal support. The code isn't that complicated, you probably shouldn't have any problems with it.
+
+
+
+# Contributing
+
+If you've spot a bug or you want to help in any way then please contribute by pull request or by filling an issue.
 
