@@ -1,4 +1,4 @@
-aurora-template
+Aurora Template
 ===============
 
 ### A free HTML5 template for personal and commercial usage.
