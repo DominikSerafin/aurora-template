@@ -26,6 +26,15 @@ It would also be cool if you could share this.
 
 # Usage & Editing
 
+## How can I change the e-mail address where contact form should send messages?
+
+Just edit line 55 in /php/contact_form.php
+
+```
+    $to_email = "mail@example.com";
+
+```
+
 
 
 ## How to edit stylesheets?
@@ -37,6 +46,11 @@ If you know Sass and Gulp you shouldn't have a problem with editing provided sty
 ## How to edit favicon?
 
 Just use [Real Favicon Generator](http://realfavicongenerator.net/) and overwrite current favicon.
+
+## Contact Form doesn't work
+
+
+
 
 # Support
 
