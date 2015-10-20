@@ -26,10 +26,10 @@ var sourcemaps    = require('gulp-sourcemaps');
 
   configuration _____ config variables for tasks
 
-  cssbuild __________ sass, autoprefixer and browsersync css inject
+  cssbuild __________ sass, autoprefixer, etc
 
   server ____________ runs browsersync server
-  reload ____________ (helper task) reload
+  reload ____________ browsersync reload
   watch _____________ watches files and then builds and reloads
   default ___________ runs [server, watch]
 
@@ -123,7 +123,7 @@ gulp.task('server', function() {
 
 
 /*------------------------------------*\
-  server reload
+  reload
 \*------------------------------------*/
 gulp.task('reload', browserSync.reload);
 
