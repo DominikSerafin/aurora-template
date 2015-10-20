@@ -12,7 +12,7 @@ It was created for my [personal portfolio](http://serafin.io/?utm_source=Aurora-
 - [Share on Twitter](https://twitter.com/intent/tweet?source=http%3A%2F%2Fserafin.io%2Faurora-template%2F&text=Free%20Aurora%20Template:%20http%3A%2F%2Fserafin.io%2Faurora-template%2F&via=SerafinDominik)
 - [Share on Google+](https://plus.google.com/share?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F)
 - [Post to Tumblr](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fserafin.io%2Faurora-template%2F&t=Free%20Aurora%20Template&s=)
-- [Pin it](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F&description=Beautiful%20free%20HTML5%20template%20created%20by%20Dominik%20Serafin.)
+- [Pin It](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F&description=Beautiful%20free%20HTML5%20template%20created%20by%20Dominik%20Serafin.)
 
 
 
@@ -26,8 +26,9 @@ It was created for my [personal portfolio](http://serafin.io/?utm_source=Aurora-
 
 # Features
 
-- Contact Form in PHP
+- Animated Background Gradient
 - Cool Project Showcase
+- Contact Form in PHP
 - Responsive, Fast and Mobile Friendly
 - Vector Icons and Font Awesome
 - Sass and BEM Modular Stylesheet (with SourceMaps)
@@ -76,5 +77,5 @@ I'm busy most of the time so I can't provide personal support. The code isn't th
 
 # Contributing
 
-If you've spot a bug or you want to help in any way then please contribute by pull request or by filling an issue.
+If you've spotted a bug or you want to help in any way then please contribute by pull request or by filling an issue.
 
