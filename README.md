@@ -71,7 +71,7 @@ It was meant to be "initial files add", but unfortunate typo is an unfortunate t
 
 # Support
 
-I'm busy most of the time so I can't provide personal support. The code isn't that complicated, you probably shouldn't have any problems with it.
+I'm busy most of the time so I can't provide extensive personal support. The code isn't that complicated, you probably shouldn't have any problems with it. If you do then please fill in issue and I'll try to help you at my free time.
 
 
 
